@@ -1,0 +1,78 @@
+html, body, .container {
+    height: 100%;
+ }
+
+header{
+  background-color: #e6005c; 
+  color:white;
+  text-align:left;
+  padding:25px 25px 25px 25px;
+}
+
+
+h2{font-family: 'Roboto', sans-serif;
+color:red; text-align:"center";}
+
+p{ font-family: 'Roboto', sans-serif;}
+
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+
+h2{color: #ff3300;
+text-align:center;}
+
+#homeimage{
+	
+	 border-radius: 10px;
+  padding: 5px;
+  width: 150px; text-align:"center" !important; 
+
+}
+
+section {
+  display: block;
+  text-align:center;
+  color:white;
+}
+
+footer{
+  text-align: center;
+  padding: 3px;
+  background-color: #cc0052;
+  color: black;
+}
+
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+  background: #55ACEE;
+  color: white;
+}
+
+
