@@ -1,5 +1,6 @@
 html, body, .container {
     height: 100%;
+    background-color: blue;
  }
 
 header{
@@ -76,3 +77,6 @@ footer{
 }
 
 
+.dove{
+  background-color: orange ;
+}
