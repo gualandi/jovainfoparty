@@ -1,6 +1,7 @@
 html, body, .container {
     height: 100%;
-    background-color: blue;
+    background-color: #ffcce0;
+    ;
  }
 
 header{
@@ -78,5 +79,21 @@ footer{
 
 
 .dove{
-  background-color: orange ;
+  background-color:#ffcce0;
+}
+
+.quando{
+  background-color: #ffcce0;
+}
+
+.biografia{
+  background-color: #ffcce0;
+}
+
+.contact_info{
+  background-color: #ffcce0;
+}
+
+.informazioni{
+  background-color:#ffcce0;
 }
