@@ -1,7 +1,10 @@
 html, body, .container {
     height: 100%;
     background-color: #ffcce0;
-    ;
+    margin:0;
+padding:0;
+    
+  
  }
 
 header{
@@ -26,6 +29,11 @@ p {
 
 h2{color: #ff3300;
 text-align:center;}
+
+h4{
+  color: yellow;
+}
+
 
 #homeimage{
 	
@@ -97,3 +105,6 @@ footer{
 .informazioni{
   background-color:#ffcce0;
 }
+
+body{background-image:u('images/statua.jpg'); 
+background-repeat:no-repeat;}
