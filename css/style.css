@@ -30,8 +30,10 @@ p {
 h2{color: #ff3300;
 text-align:center;}
 
+h5{ color: yellow;}
+
 h4{
-  color: yellow;
+  color: red;
 }
 
 
@@ -104,7 +106,12 @@ footer{
 
 .informazioni{
   background-color:#ffcce0;
-}
+
 
 body{background-image:u('images/statua.jpg'); 
 background-repeat:no-repeat;}
+
+.doc{
+  
+  text-align:center;
+}
