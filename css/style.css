@@ -3,6 +3,7 @@ html, body, .container {
     background-color: #ffcce0;
     margin:0;
 padding:0;
+
     
   
  }
@@ -29,6 +30,8 @@ p {
 
 h2{color: #ff3300;
 text-align:center;}
+
+h3{color: orange;}
 
 h5{ color: yellow;}
 
@@ -108,10 +111,10 @@ footer{
   background-color:#ffcce0;
 
 
-body{background-image:u('images/statua.jpg'); 
-background-repeat:no-repeat;}
+
 
 .doc{
-  
-  text-align:center;
+  text-align: center;
 }
+
+.rosa{background-color: #ffcce0 !important;}
